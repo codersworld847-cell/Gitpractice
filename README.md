@@ -1,2 +1,2 @@
 # Gitpractice
-*_*
+* _ *
